@@ -21,4 +21,4 @@ def  get_average(list_note):
 note_end = get_students()
 view = view_note(note_end)
 average_end = get_average(note_end)
-print (f"la nota final es  : {average_end}")
+print (f"The final note is  : {average_end}")
